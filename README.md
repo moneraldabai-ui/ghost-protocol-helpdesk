@@ -183,9 +183,24 @@ Managing IT incidents without the right tools leads to chaos — missed tickets,
 
 <div align="center">
 
-| Version | Release Date | Platform | Download |
-|:-------:|:------------:|:--------:|:--------:|
-| **v1.0.0** | April 2026 | Windows 10+ | [⬇️ GhostProtocol-1.0.0-Setup.exe](https://github.com/moneraldabai-ui/ghost-protocol/releases/tag/v1.0.0) |
+<br/>
+
+<a href="https://github.com/moneraldabai-ui/ghost-protocol/releases/download/v1.0.0/GhostProtocol-1.0.0-Setup.exe">
+  <img src="https://img.shields.io/badge/⬇️_Download_Installer-GhostProtocol--1.0.0--Setup.exe-00d4ff?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/moneraldabai-ui/ghost-protocol/archive/refs/heads/main.zip">
+  <img src="https://img.shields.io/badge/📦_Download_Source-ZIP-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/>
+</a>
+
+<br/><br/>
+
+| | File | Description |
+|---|------|-------------|
+| 🖥️ | **GhostProtocol-1.0.0-Setup.exe** | Windows installer — recommended for end users |
+| 📦 | **Source Code (.zip)** | Full source — for developers |
 
 </div>
 
