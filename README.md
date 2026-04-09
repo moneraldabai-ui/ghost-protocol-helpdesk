@@ -163,27 +163,45 @@ Managing IT incidents without the right tools leads to chaos — missed tickets,
 
 <div align="center">
 
-  <img src="screenshots/dashboard.png" alt="Operations Dashboard" width="45%"/>
+  <img src="screenshots/OPERATIONS%20OVERVIEW.png" alt="Operations Dashboard" width="45%"/>
   &nbsp;&nbsp;
-  <img src="screenshots/incidents.png" alt="Incident Management" width="45%"/>
+  <img src="screenshots/INCIDENT%20MANAGEMENT.png" alt="Incident Management" width="45%"/>
 
   <br/><br/>
 
-  <img src="screenshots/knowledge-base.png" alt="Knowledge Base" width="45%"/>
+  <img src="screenshots/KNOWLEDGE%20BASE.png" alt="Knowledge Base" width="45%"/>
   &nbsp;&nbsp;
-  <img src="screenshots/reports.png" alt="Reports & Analytics" width="45%"/>
+  <img src="screenshots/INCIDENT%20REPORTS.png" alt="Reports & Analytics" width="45%"/>
 
   <br/><br/>
 
-  <img src="screenshots/users.png" alt="User Administration" width="45%"/>
+  <img src="screenshots/USER%20ADMINISTRATION.png" alt="User Administration" width="45%"/>
   &nbsp;&nbsp;
-  <img src="screenshots/audit-log.png" alt="Audit Log" width="45%"/>
+  <img src="screenshots/AUDIT%20LOG.png" alt="Audit Log" width="45%"/>
+
+  <br/><br/>
+
+  <img src="screenshots/END%20USERS%20MANAGEMENT.png" alt="End Users" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/COMPANY%20DEPARTMENTS.png" alt="Company Departments" width="45%"/>
+
+  <br/><br/>
+
+  <img src="screenshots/EDIT%20INCIDENT%20PAGE.png" alt="Edit Incident" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/VIEW%20INCIDENT.png" alt="View Incident" width="45%"/>
+
+  <br/><br/>
+
+  <img src="screenshots/SETTINGS.png" alt="Settings" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/HELP%20CENTER.png" alt="Help Center" width="45%"/>
+
+  <br/><br/>
+
+  <img src="screenshots/LOGIN%20PAGE.png" alt="Login Page" width="90%"/>
 
 </div>
-
-<br/>
-
-> 📌 *Screenshots will be added in an upcoming release. Place your PNG files in the `screenshots/` folder.*
 
 ---
 
