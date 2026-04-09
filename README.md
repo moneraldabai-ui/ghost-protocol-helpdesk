@@ -14,13 +14,7 @@
   <img src="https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge"/>
 
   <br/><br/>
-
-  <a href="#-features">Features</a> &nbsp;&bull;&nbsp;
-  <a href="#-screenshots">Screenshots</a> &nbsp;&bull;&nbsp;
-  <a href="#-download">Download</a> &nbsp;&bull;&nbsp;
-  <a href="#-installation">Installation</a> &nbsp;&bull;&nbsp;
-  <a href="#-roles--permissions">Roles</a> &nbsp;&bull;&nbsp;
-  <a href="#-building">Building</a>
+  
 ## ⬇️ Download
 
 <div align="center">
@@ -49,6 +43,11 @@
 
 <br/>
 
+  <a href="#-features">Features</a> &nbsp;&bull;&nbsp;
+  <a href="#-screenshots">Screenshots</a> &nbsp;&bull;&nbsp;
+  <a href="#-installation">Installation</a> &nbsp;&bull;&nbsp;
+  <a href="#-roles--permissions">Roles</a> &nbsp;&bull;&nbsp;
+  <a href="#-building">Building</a>
 ---
 
 ## Why Ghost Protocol?
