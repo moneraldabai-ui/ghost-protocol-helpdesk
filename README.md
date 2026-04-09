@@ -163,45 +163,75 @@ Managing IT incidents without the right tools leads to chaos — missed tickets,
 
 <div align="center">
 
-  <img src="screenshots/OPERATIONS%20OVERVIEW.png" alt="Operations Dashboard" width="45%"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/INCIDENT%20MANAGEMENT.png" alt="Incident Management" width="45%"/>
-
-  <br/><br/>
-
-  <img src="screenshots/KNOWLEDGE%20BASE.png" alt="Knowledge Base" width="45%"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/INCIDENT%20REPORTS.png" alt="Reports & Analytics" width="45%"/>
-
-  <br/><br/>
-
-  <img src="screenshots/USER%20ADMINISTRATION.png" alt="User Administration" width="45%"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/AUDIT%20LOG.png" alt="Audit Log" width="45%"/>
-
-  <br/><br/>
-
-  <img src="screenshots/END%20USERS%20MANAGEMENT.png" alt="End Users" width="45%"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/COMPANY%20DEPARTMENTS.png" alt="Company Departments" width="45%"/>
-
-  <br/><br/>
-
-  <img src="screenshots/EDIT%20INCIDENT%20PAGE.png" alt="Edit Incident" width="45%"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/VIEW%20INCIDENT.png" alt="View Incident" width="45%"/>
-
-  <br/><br/>
-
-  <img src="screenshots/SETTINGS.png" alt="Settings" width="45%"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/HELP%20CENTER.png" alt="Help Center" width="45%"/>
-
-  <br/><br/>
-
-  <img src="screenshots/LOGIN%20PAGE.png" alt="Login Page" width="90%"/>
+### 🔐 Login Screen
+<img src="screenshots/LOGIN%20PAGE.png" alt="Ghost Protocol Login" width="80%"/>
 
 </div>
+
+<br/>
+
+<details>
+<summary>📂 <strong>View All Screenshots</strong> — click to expand</summary>
+
+<br/>
+
+<div align="center">
+
+**📊 Operations Dashboard**
+<br/>
+<img src="screenshots/OPERATIONS%20OVERVIEW.png" alt="Operations Dashboard" width="90%"/>
+
+<br/><br/>
+
+**🎫 Incident Management**
+<br/>
+<img src="screenshots/INCIDENT%20MANAGEMENT.png" alt="Incident Management" width="45%"/>
+&nbsp;
+<img src="screenshots/VIEW%20INCIDENT.png" alt="View Incident" width="45%"/>
+
+<br/><br/>
+
+<img src="screenshots/EDIT%20INCIDENT%20PAGE.png" alt="Edit Incident Page" width="45%"/>
+&nbsp;
+<img src="screenshots/ATTACH%20FILES%20.png" alt="Attach Files" width="45%"/>
+
+<br/><br/>
+
+**📚 Knowledge Base**
+<br/>
+<img src="screenshots/KNOWLEDGE%20BASE.png" alt="Knowledge Base" width="90%"/>
+
+<br/><br/>
+
+**👥 Users & Departments**
+<br/>
+<img src="screenshots/END%20USERS%20MANAGEMENT.png" alt="End Users Management" width="45%"/>
+&nbsp;
+<img src="screenshots/COMPANY%20DEPARTMENTS.png" alt="Company Departments" width="45%"/>
+
+<br/><br/>
+
+<img src="screenshots/USER%20ADMINISTRATION.png" alt="User Administration" width="90%"/>
+
+<br/><br/>
+
+**📈 Reports & Audit**
+<br/>
+<img src="screenshots/INCIDENT%20REPORTS.png" alt="Incident Reports" width="45%"/>
+&nbsp;
+<img src="screenshots/AUDIT%20LOG.png" alt="Audit Log" width="45%"/>
+
+<br/><br/>
+
+**⚙️ Settings & Help**
+<br/>
+<img src="screenshots/SETTINGS.png" alt="Settings" width="45%"/>
+&nbsp;
+<img src="screenshots/HELP%20CENTER.png" alt="Help Center" width="45%"/>
+
+</div>
+
+</details>
 
 ---
 
