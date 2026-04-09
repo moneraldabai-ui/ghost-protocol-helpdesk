@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/BUILT_WITH-Electron-47848f?style=for-the-badge&logo=electron"/>
   <img src="https://img.shields.io/badge/REACT-18-61dafb?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/downloads/moneraldabai-ui/ghost-protocol-helpdesk/total?style=for-the-badge&label=DOWNLOADS&color=ff6b35&logo=github" alt="Total Downloads"/>
 
   <br/><br/>
   
@@ -19,7 +20,9 @@
 
 <div align="center">
 
-<br/>
+<img src="https://img.shields.io/github/downloads/moneraldabai-ui/ghost-protocol-helpdesk/total?style=for-the-badge&label=TOTAL+DOWNLOADS&color=ff6b35&logo=github"/>
+
+<br/><br/>
 
 <a href="https://github.com/moneraldabai-ui/ghost-protocol-helpdesk/releases/download/v1.0.0/GhostProtocol-1.0.0-Setup.exe">
   <img src="https://img.shields.io/badge/⬇️_Download_Installer-GhostProtocol--1.0.0--Setup.exe-00d4ff?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer"/>
