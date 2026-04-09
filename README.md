@@ -21,7 +21,30 @@
   <a href="#-installation">Installation</a> &nbsp;&bull;&nbsp;
   <a href="#-roles--permissions">Roles</a> &nbsp;&bull;&nbsp;
   <a href="#-building">Building</a>
+## ⬇️ Download
 
+<div align="center">
+
+<br/>
+
+<a href="https://github.com/moneraldabai-ui/ghost-protocol/releases/download/v1.0.0/GhostProtocol-1.0.0-Setup.exe">
+  <img src="https://img.shields.io/badge/⬇️_Download_Installer-GhostProtocol--1.0.0--Setup.exe-00d4ff?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/moneraldabai-ui/ghost-protocol/archive/refs/heads/main.zip">
+  <img src="https://img.shields.io/badge/📦_Download_Source-ZIP-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/>
+</a>
+
+<br/><br/>
+
+| | File | Description |
+|---|------|-------------|
+| 🖥️ | **GhostProtocol-1.0.0-Setup.exe** | Windows installer — recommended for end users |
+| 📦 | **Source Code (.zip)** | Full source — for developers |
+
+</div>
 </div>
 
 <br/>
@@ -174,33 +197,6 @@ Managing IT incidents without the right tools leads to chaos — missed tickets,
 <!-- VIDEO PLACEHOLDER -->
 <!-- Once ready, replace this block with: -->
 <!-- [![Watch Demo](screenshots/video-thumbnail.png)](https://youtube.com/your-link) -->
-
-</div>
-
----
-
-## ⬇️ Download
-
-<div align="center">
-
-<br/>
-
-<a href="https://github.com/moneraldabai-ui/ghost-protocol/releases/download/v1.0.0/GhostProtocol-1.0.0-Setup.exe">
-  <img src="https://img.shields.io/badge/⬇️_Download_Installer-GhostProtocol--1.0.0--Setup.exe-00d4ff?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/moneraldabai-ui/ghost-protocol/archive/refs/heads/main.zip">
-  <img src="https://img.shields.io/badge/📦_Download_Source-ZIP-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/>
-</a>
-
-<br/><br/>
-
-| | File | Description |
-|---|------|-------------|
-| 🖥️ | **GhostProtocol-1.0.0-Setup.exe** | Windows installer — recommended for end users |
-| 📦 | **Source Code (.zip)** | Full source — for developers |
 
 </div>
 
