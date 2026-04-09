@@ -207,7 +207,7 @@ Managing IT incidents without the right tools leads to chaos — missed tickets,
 |:-----|:-------------|:-------------|
 | 👑 **OWNER** | Full | Everything: Backup/Restore, Audit Log deletion, delete any ticket regardless of status |
 | 🛡️ **ADMIN** | High | Full management except Backup; cannot delete Closed/Resolved tickets |
-| ✏️ **OPERATOR** | Medium | Create and update tickets, manage end users |
+| ✏️   **OPERATOR** | Medium | Create and update tickets, manage end users |
 | 👁️ **VIEWER** | Read-only | View all data, no modifications allowed |
 
 ---
