@@ -22,17 +22,17 @@
 
 
 
-<a href="https://github.com/moneraldabai-ui/ghost-protocol-helpdesk/releases/download/v1.0.0/GhostProtocol-1.0.0-Setup.exe">
+<a href="https://github.com/moner-dev/ghost-protocol-helpdesk/releases/download/v1.0.0/GhostProtocol-1.0.0-Setup.exe">
   <img src="https://img.shields.io/badge/⬇️_Download_Installer-GhostProtocol--1.0.0--Setup.exe-00d4ff?style=for-the-badge&logo=windows&logoColor=white" alt="Download Installer"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/moneraldabai-ui/ghost-protocol-helpdesk/archive/refs/heads/main.zip">
+<a href="https://github.com/moner-dev/ghost-protocol-helpdesk/archive/refs/heads/main.zip">
   <img src="https://img.shields.io/badge/📦_Download_Source-ZIP-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/>
 </a>
 
-<img src="https://img.shields.io/github/downloads/moneraldabai-ui/ghost-protocol-helpdesk/total?style=for-the-badge&label=TOTAL+DOWNLOADS&color=ff6b35&logo=github"/>
+<img src="https://img.shields.io/github/downloads/moner-dev/ghost-protocol-helpdesk/total?style=for-the-badge&label=TOTAL+DOWNLOADS&color=ff6b35&logo=github"/>
 <br/><br/>
 
 | | File | Description |
@@ -341,7 +341,7 @@ iscc /?
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/moneraldabai-ui/ghost-protocol-helpdesk.git
+git clone https://github.com/moner-dev/ghost-protocol-helpdesk.git
 cd ghost-protocol-helpdesk
 ```
 
@@ -535,7 +535,7 @@ The `markdown` and `index` chunks exceed 500 KB. This is expected due to the mar
 
 MIT License — See [LICENSE](LICENSE)
 
-Copyright (c) 2026 M. O. N. E. R
+Copyright (c) 2026 MONER INTELLIGENCE SYSTEMS
 
 ---
 
@@ -543,12 +543,12 @@ Copyright (c) 2026 M. O. N. E. R
 
   <h3>👻 Ghost Protocol</h3>
 
-  Built with ❤️ by <strong>M · O · N · E · R</strong><br/>
+  Built with ❤️ by <strong>MONER INTELLIGENCE SYSTEMS</strong><br/>
   <em>Application Developer & AI Specialist</em>
 
   <br/><br/>
 
   <img src="https://img.shields.io/badge/Made_with-Electron-47848f?style=for-the-badge&logo=electron"/>
-  <img src="https://img.shields.io/badge/©_2026-M.O.N.E.R-00d4ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/©_2026-MONER_INTELLIGENCE_SYSTEMS-00d4ff?style=for-the-badge"/>
 
 </div>

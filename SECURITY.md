@@ -10,7 +10,7 @@
 
 If you discover a security vulnerability, please report it to:
 
-**Email:** moner.aldabai@gmail.com
+**Email:** moner.intelligence@gmail.com
 
 Please include:
 - Description of the vulnerability
