@@ -84,7 +84,6 @@ DisableDirPage=no
 ; ----------------------------------------------------------------------------
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
-Name: "arabic"; MessagesFile: "compiler:Languages\Arabic.isl"
 
 ; ----------------------------------------------------------------------------
 ; [CustomMessages] - All user-facing strings (easy to edit/localize)
@@ -99,16 +98,6 @@ english.WindowsVersionError=Ghost Protocol requires Windows 10 or later.
 english.InstallingRuntime=Installing required components...
 english.FullInstall=Full Installation
 english.FullInstallDescription=Install Ghost Protocol with all components
-
-; Arabic
-arabic.AppDescription=Ghost Protocol — IT Intelligence Suite by M. O. N. E. R
-arabic.LaunchAfterInstall=Ghost Protocol تشغيل
-arabic.CreateDesktopShortcut=إنشاء اختصار على سطح المكتب
-arabic.AppIsRunning=.Ghost Protocol يعمل حاليًا. يرجى إغلاقه قبل المتابعة
-arabic.WindowsVersionError=.أو أحدث Windows 10 يتطلب Ghost Protocol
-arabic.InstallingRuntime=...جارٍ تثبيت المكونات المطلوبة
-arabic.FullInstall=تثبيت كامل
-arabic.FullInstallDescription=تثبيت Ghost Protocol مع جميع المكونات
 
 ; ----------------------------------------------------------------------------
 ; [Types] - Installation types
