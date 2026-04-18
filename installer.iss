@@ -28,7 +28,7 @@ AppName=Ghost Protocol
 AppVersion=1.0.0
 AppVerName=Ghost Protocol 1.0.0
 AppPublisher=M. O. N. E. R
-AppContact=moner.aldabai@gmail.com
+AppContact=moner.intelligence@gmail.com
 AppCopyright=Copyright © 2026 MONER INTELLIGENCE SYSTEMS
 
 ; Installation directories

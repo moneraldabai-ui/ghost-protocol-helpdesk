@@ -4,7 +4,7 @@
 module.exports = {
   appId: 'com.moner.ghost-protocol',
   productName: 'GHOST PROTOCOL',
-  copyright: 'Copyright (c) Moner Intelligence',
+  copyright: 'Copyright (c) 2026 MONER INTELLIGENCE SYSTEMS',
 
   directories: {
     output: 'release',

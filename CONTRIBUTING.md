@@ -22,8 +22,8 @@ Thank you for your interest in contributing to Ghost Protocol!
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/ghost-protocol.git
-cd ghost-protocol
+git clone https://github.com/moner-dev/ghost-protocol-helpdesk.git
+cd ghost-protocol-helpdesk
 
 # Install dependencies
 npm install

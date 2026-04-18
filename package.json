@@ -4,7 +4,7 @@
   "description": "GHOST PROTOCOL — IT Intelligence Suite",
   "type": "module",
   "main": "electron/main.cjs",
-  "author": "Ghost Protocol",
+  "author": "MONER INTELLIGENCE SYSTEMS",
   "license": "MIT",
   "scripts": {
     "dev": "vite",

@@ -749,7 +749,7 @@ function SettingsPage({ user }) {
               )}
               <div style={{ display: 'flex', gap: '16px' }}>
                 <span style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: '10px', color: DARK_THEME.textMuted, opacity: 0.6 }}>
-                  github.com/username/ghost-protocol
+                  github.com/moner-dev/ghost-protocol-helpdesk
                 </span>
                 <span style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: '10px', color: DARK_THEME.electric, opacity: 0.6, cursor: 'pointer' }}>
                   View releases

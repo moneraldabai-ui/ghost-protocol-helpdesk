@@ -278,7 +278,7 @@ function seedIfEmpty() {
   const insertUser = db.prepare('INSERT OR IGNORE INTO users (id, username, password_hash, email, display_name, department, role, account_status) VALUES (?, ?, ?, ?, ?, ?, ?, ?)');
   const users = [
     ['user-admin', 'admin', bcrypt.hashSync('Ghost2026', 10), 'admin@ghostprotocol.io', 'System Admin', 'it-ops', 'admin', 'approved'],
-    ['user-moner', 'pro', bcrypt.hashSync('Ghost2026', 10), 'moner@ghostprotocol.io', 'Admin', 'it-ops', 'owner', 'approved'],
+    ['user-moner', 'pro', bcrypt.hashSync('Ghost2026', 10), 'moner.intelligence@gmail.com', 'Admin', 'it-ops', 'owner', 'approved'],
   ];
   for (const user of users) {
     insertUser.run(...user);
@@ -537,7 +537,7 @@ function migrateOwnerRole() {
     db.prepare(`
       INSERT INTO users (id, username, password_hash, email, display_name, department, role, account_status, created_at)
       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
-    `).run('user-moner', 'pro', bcrypt.hashSync('Ghost2026', 10), 'moner@ghostprotocol.io', 'Admin', 'it-ops', 'owner', 'approved', now);
+    `).run('user-moner', 'pro', bcrypt.hashSync('Ghost2026', 10), 'moner.intelligence@gmail.com', 'Admin', 'it-ops', 'owner', 'approved', now);
   }
 }
 
